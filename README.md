@@ -1,5 +1,5 @@
 # Data-Structures-Algorithms-in-Java-
-![2](https://github.com/user-attachments/assets/732e5e51-bf4e-4ab4-a268-4791b7ef196c)
+![2](https://github.com/user-attachments/assets/bb667849-aaf1-4180-922e-02ce1859be28)
 👋 Welcome to my repository for Data Structures & Algorithms (DSA) Lab in Java! Explore .java files that bring fundamental DSA concepts to life.
 
 📝 Highlights:
