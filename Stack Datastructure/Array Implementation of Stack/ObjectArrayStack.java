@@ -75,7 +75,7 @@ public class ObjectArrayStack implements ObjectStack{
 		display(bookStack);
 		
 		Object book4=bookStack.pop();  // Removing the top book from the stack.
-		Object book3=bookStack.pop(); // Removing the 2nd-to book from the stack.
+		Object book3=bookStack.pop(); // Removing the 2nd-top book from the stack.
 		
 		display(bookStack);
 		
